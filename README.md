@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 <h1 align="center">Hi there, I'm Alexandr 👋</h1>
 
-<p align="center">I'm a Full Stack developer with expertise in CSS, HTML, JS and React, and currently learning Node.js and Native React. I'm also planning to learn TypeScript, Nest.js, Next.js, Vue.js, Nuxt.js, Python, Django in the future.</p>
+<p align="center">I'm a Full Stack developer with expertise in CSS, HTML, JS, React, Next, Nodeand currently learning Node.js and Native React. I'm also planning to learn TypeScript, Nest.js, Next.js, Vue.js, Nuxt.js, Python, Django in the future.</p>
 
 <h2 align="center">About Me</h2>
 
