@@ -20,13 +20,13 @@ Here are some ideas to get you started:
 <h2 align="center">About Me</h2>
 
 <ul>
-  <!-- <li>🔭 I’m currently working on my Image Processing CLI Tool "Rimage" which can be found here: <a href="https://github.com/SalOne22/rimage">https://github.com/SalOne22/rimage</a> </li> -->
-  <li>🌱 I’m currently learning JavaScript, React and Node.js</li>
-  <li>👯 I’m looking to collaborate on open-source projects in JavaScript</li>
+
+  <li>🌱 I’m currently learning Angular</li>
+  <li>👯 I’m looking to collaborate on open-source projects in React(Next.js) or Nest.js</li>
   <li>🤔 I’m looking for help with mastering my coding skills in JavaScript</li>
   <li>💬 Ask me about anything, I am happy to help</li>
   <li>📫 How to reach me: Telegram - <a href="https://t.me/ai_zimn">ai_zimn</a></li>
-  <!-- <li>🎸 Fun fact: I play on guitar</li> -->
+  
 </ul>
 
 <!-- <h2 align="center">CodeWars</h2>
